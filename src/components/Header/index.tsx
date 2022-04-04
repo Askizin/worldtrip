@@ -8,7 +8,7 @@ export function Header() {
             w="100%"
             mx="auto"
             px="4"
-            h={["12","24"]}
+            h={["50px","100px"]}
             align="center"
             justify="center"
         >
@@ -17,7 +17,6 @@ export function Header() {
                 mx="auto"
                 w="100%"
                 maxW="1160px"
-                objectFit="cover"
                 alignItems="center"
                 templateColumns="repeat(3, 1fr)"
                 justifyContent="center"
